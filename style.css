@@ -1,4 +1,5 @@
 body {
     color: pink;
     background-color: white;
+    display: flex;
 }
